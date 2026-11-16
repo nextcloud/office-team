@@ -6,7 +6,9 @@
  
  ## Apps in scope
 
-* [Nextcloud Office](https://github.com/nextcloud/richdocuments)
+* [Nextcloud Office (developed in the project codenamed Euro-Office)](https://github.com/Euro-Office/)
+* [Nextcloud Office integration](https://github.com/Euro-Office/eurooffice-nextcloud)
+* [Collabora Online integration](https://github.com/nextcloud/richdocuments)
 * [OfficeOnline](https://github.com/nextcloud/officeonline)
 * [Text](https://github.com/nextcloud/text)
 * [Deck](https://github.com/nextcloud/deck)
